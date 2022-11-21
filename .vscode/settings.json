@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".vscode": true,
+    "tsconfig.json": true,
+    "yarn.lock": true,
+    ".gitignore": true,
+    "package.json": true,
+    "src\\index.scss": true,
+    "src\\index.tsx": true,
+    "src\\react-app-env.d.ts": true,
+    "src\\reportWebVitals.ts": true,
+    "public\\robots.txt": true,
+    "public": true
+  }
+}
